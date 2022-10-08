@@ -1,12 +1,12 @@
 .box{
 	height:200px;
-	width:200px;
+padding-left:150px;
+padding-top:50px;
 	
 }
 .prntdiv{
 	display:flex;
-	
-	
+	background-color:blue;
 	align-items:center
 
 	
@@ -17,5 +17,6 @@
 .food{
 
 	height:200px;
-	width:200px;
+margin-left:20px;
+	
 }
