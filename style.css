@@ -1,0 +1,13 @@
+.box{
+	height:100px;
+	width:50px;
+	border:2px solid indigo
+}
+.prntdiv{
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+	height:400px;
+	width:400px;
+	background-color:red;
+}
